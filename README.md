@@ -12,6 +12,15 @@ Zoznam produktov zakúpených zákazníkom
 
 ------------------------------------------------
 
+### Po inštalácii
+
+- **nechcený ľavý alebo pravý stlpec na stránke**: ručne prepnúť z X na V a naspäť na X  
+  *Administrácia: Predvoľby > Témy > Pokročilé nastavenia > module-productspurchased-products*
+- **zmenu v poradí blokov na Môj účet**: ručne popresúvať moduly v hooku *displayCustomerAccount*  
+  *Administrácia: Moduly a Skužby > Pozície modulov > displayCustomerAccount*
+
+------------------------------------------------
+
 ### Screeny
 
 #### Vlastná stránka so zoznamom zakúpených produktov:
